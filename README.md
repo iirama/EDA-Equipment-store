@@ -90,6 +90,7 @@ This repository documents a complete SQL-based exploratory analysis of an equipm
 
 ## 🔗 LINKES 
 ### [Full EDA PDF Report](https://github.com/iirama/EDA-Equipment-store/blob/main/Equipment%20Store%20-%20SQL%20EDA%20Report.pdf)
-### Advanced Anlysis
+### [Advanced Anlysis ](https://github.com/iirama/Equipment-Store-Advanced-Analysis)
+
    
 
