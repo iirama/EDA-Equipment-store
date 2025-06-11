@@ -90,6 +90,11 @@ This repository documents a complete SQL-based exploratory analysis of an equipm
 
    3- Top 10 customers generate 12% of total revenue
 
+## **Conclusion**  
+- 🚴 **Opportunity**: Bike sales yield 96.5% revenue; optimize inventory.  
+- 🎯 **Priority**: Target US males aged 40–60 (highest spenders).  
+- 🧹 **Critical**: Clean 337 incomplete customer records. 
+
 ## 🔗 LINKES 
 ### full EDA PDF Report
 ### Advanced Anlysis
