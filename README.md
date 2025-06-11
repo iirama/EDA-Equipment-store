@@ -84,15 +84,12 @@ This repository documents a complete SQL-based exploratory analysis of an equipm
    3- Age Outliers: Customers >100 years old
 
  ## 📝 Summary of Insight
-   1-  Bikes drive 96.5% of revenue, with consistent 15% YoY growth
-
-   2- Q2 is peak sales season (ideal for promotions)
-
+   1-  Bikes drive 96.5% of revenue
    3- Top 10 customers generate 12% of total revenue
 
 ## **Conclusion**  
 - 🚴 **Opportunity**: Bike sales yield 96.5% revenue; optimize inventory.  
-- 🎯 **Priority**: Target US males aged 40–60 (highest spenders).  
+- 🎯 **Priority**: Target US males (highest spenders).  
 - 🧹 **Critical**: Clean 337 incomplete customer records. 
 
 ## 🔗 LINKES 
