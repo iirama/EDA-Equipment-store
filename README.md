@@ -17,11 +17,11 @@ This repository documents a complete SQL-based exploratory analysis of an equipm
 
 ## 🗃️ Database Structure
 ### Core Tables
-| Table | Description | Key Columns |
-|-------|-------------|-------------|
-| `dim_customers` | Customer information | `customer_key`, `country`, `gender`, `birthdate` |
-| `dim_products` | Product catalog | `product_key`, `category`, `subcategory`, `cost` |
-| `fact_sales` | Transaction records | `order_number`, `order_date`, `sales_amount`, `quantity` |
+| Table Name | Description | Key Columns |
+|------------|-------------|-------------|
+| `gold.dim_customers` | Customer demographic data | `customer_key`, `customer_id`, , `customer number`, `first_name`, `last_name`, `country` , `marital_status` , `gender`, `birthdate`, `create_date`|
+| `gold.dim_products` | Product inventory information |`product_key`, `product_id`, `product_number`, `product_name`, `category_id` , `category` , `subcategory`, `maintenance`, `cost`  , `product_line` , `start_date` |
+| `gold.fact_sales` | Sales transaction records | `order_number`, `product_key`, `customer_key`, `order_date`, `shipping_date` , `due_date` , `sales_amount`, `quantity`, `price` 
 
 ## 📊 Key Findings
 
