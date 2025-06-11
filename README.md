@@ -30,7 +30,7 @@ This repository documents a complete SQL-based exploratory analysis of an equipm
 |------|----------------|--------------|
 |Total Sales	|$29,356,250	|Gross revenue over analysis period|
 |Total Quantity	|60,423 units	|Total products sold|
-|Average Price|	$486	||Mean transaction value|
+|Average Price|	$486	|Mean transaction value|
 |Total Orders|	27,659	|Unique transactions processed|
 |Total Products|	295	|SKUs in inventory|
 |Active Customers|	18,484|	Unique purchasing customers|
