@@ -85,7 +85,7 @@ This repository documents a complete SQL-based exploratory analysis of an equipm
 
 ## **Conclusion**  
 - 🚴 **Opportunity**: Bike sales yield 96.5% revenue; optimize inventory.  
-- 🎯 **Priority**: Target US males (highest spenders).  
+- 🎯 **Priority**: Target US customer (highest spenders).  
 - 🧹 **Critical**: Clean 337 incomplete customer records. 
 
 ## 🔗 LINKES 
