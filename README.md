@@ -1,4 +1,4 @@
-# 🏗️ Equipment Store - SQL EDA Project
+# 🏗️ Equipment Company - SQL EDA Project
 
 ![SQL](https://img.shields.io/badge/SQL-Exploratory%20Data%20Analysis-blue)
 ![Database](https://img.shields.io/badge/Database-SQL%20Server-red)
